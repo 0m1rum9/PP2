@@ -1,3 +1,0 @@
-# Exercise 
-print("Hello, World!")
-
